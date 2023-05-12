@@ -18,8 +18,11 @@ import nodejs from "./tech/nodejs.png";
 import reactjs from "./tech/reactjs.png";
 import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
-import typescript from "./tech/typescript.png";
-import threejs from "./tech/threejs.svg";
+import umbb from "./tech/umbb.png"
+import gomycode from "./tech/gomycode.png"
+import gdg from "./tech/gdg.png"
+import free from "./tech/free.png"
+import devteam from "./tech/devteam.png"
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -50,8 +53,6 @@ export {
   reactjs,
   redux,
   tailwind,
-  typescript,
-  threejs,
   meta,
   shopify,
   starbucks,
@@ -59,4 +60,9 @@ export {
   carrent,
   jobit,
   tripguide,
+  umbb,
+  gomycode,
+  gdg,
+  free,
+  devteam,
 };

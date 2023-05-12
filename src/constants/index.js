@@ -4,7 +4,6 @@ import {
   creator,
   web,
   javascript,
-  typescript,
   html,
   css,
   reactjs,
@@ -13,16 +12,16 @@ import {
   nodejs,
   mongodb,
   git,
-  figma,
-  docker,
   meta,
-  starbucks,
-  tesla,
   shopify,
   carrent,
   jobit,
   tripguide,
-  threejs,
+  umbb,
+  gomycode,
+  gdg,
+  free,
+  devteam,
 } from "../assets";
 
 export const navLinks = [
@@ -42,11 +41,11 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Web Developer",
+    title: "Full stack Web Developer",
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "Front end Developer",
     icon: mobile,
   },
   {
@@ -54,7 +53,7 @@ const services = [
     icon: backend,
   },
   {
-    title: "Content Creator",
+    title: "cyber security enthusiast",
     icon: creator,
   },
 ];
@@ -71,10 +70,6 @@ const technologies = [
   {
     name: "JavaScript",
     icon: javascript,
-  },
-  {
-    name: "TypeScript",
-    icon: typescript,
   },
   {
     name: "React JS",
@@ -97,74 +92,63 @@ const technologies = [
     icon: mongodb,
   },
   {
-    name: "Three JS",
-    icon: threejs,
-  },
-  {
     name: "git",
     icon: git,
-  },
-  {
-    name: "figma",
-    icon: figma,
-  },
-  {
-    name: "docker",
-    icon: docker,
   },
 ];
 
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Starbucks",
-    icon: starbucks,
+    title: "Computer science student",
+    company_name: "Université M'Hamed Bougara Boumerdès",
+    icon: umbb,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "2021 - 2024",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "As a computer science student, I have learned the fundamental concepts of programming, data structures, and algorithms. These skills have allowed me to develop web applications and gain a solid understanding of web development. In the future, I will continue to learn advanced topics such as machine learning, computer graphics, and network security, which will further enhance my knowledge and abilities in the field of computer science and web development.",
     ],
   },
   {
-    title: "React Native Developer",
-    company_name: "Tesla",
-    icon: tesla,
+    title: "GoMyCode Certification",
+    company_name: "gomycode",
+    icon: gomycode,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "mars 2022 - nov 2022",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "I've earned the full stack (MERN) gomycode certification in these bootcampe I started my web dev journey and deployed my first web application.",
+      "main front-end skills gained : html,css,js,react,bootstrap,gsap,redux",
+      "main back-end skills gained : nodeJS , express, sql and Nosql , REST api, mongoDB",
     ],
   },
   {
     title: "Web Developer",
-    company_name: "Shopify",
-    icon: shopify,
+    company_name: "GDGC",
+    icon: gdg,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "2022 - Today",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "I am fortunate to have had the opportunity to join the Google Developers Student Club, where I have gained valuable experience working on a variety of projects with other talented individuals. Through my involvement with the club, I have sharpened my skills in web development, gained experience working with modern technologies, and learned how to work effectively as part of a team. In addition, I have recently been honored to serve as a mentor in a web development bootcamp, helping others to learn and develop their skills."
     ],
   },
   {
-    title: "Full stack Developer",
-    company_name: "Meta",
-    icon: meta,
+    title: "Freelancer ",
+    company_name: "upwork,network",
+    icon: free,
     iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
+    date: "nov 2022 - Present",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "As a freelance web developer, I have had the opportunity to work on a variety of projects that have allowed me to showcase my skills and creativity. I am proud to have completed over 10 successful projects, including a marketplace, a tourism website, and an e-commerce tech shop. Through these projects, I have gained experience in designing and developing websites that are not only visually appealing but also highly functional and user-friendly. My ability to work closely with clients and understand their needs has been a key factor in the success of these projects.",
+    ],
+  },
+  {
+    title: "Full stack dev ",
+    company_name: "SARL DEVTEAM",
+    icon: devteam,
+    iconBg: "#E6DEDD",
+    date: "mars 2023 - Present",
+    points: [
+      "ERP Conception And creation",
+      "MERN stack devlopment and team work"
     ],
   },
 ];
