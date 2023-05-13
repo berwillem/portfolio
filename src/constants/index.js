@@ -12,9 +12,6 @@ import {
   nodejs,
   mongodb,
   git,
-  meta,
-  shopify,
-  carrent,
   jobit,
   tripguide,
   umbb,
@@ -22,6 +19,9 @@ import {
   gdg,
   free,
   devteam,
+  techdz,
+  gamez,
+  lv,
 } from "../assets";
 
 export const navLinks = [
@@ -182,9 +182,9 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Tech dz",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Web-based platform that allows users to buy different tech services.",
     tags: [
       {
         name: "react",
@@ -195,45 +195,45 @@ const projects = [
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "bootstrap",
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
+    image: techdz,
     source_code_link: "https://github.com/",
   },
   {
-    name: "Job IT",
+    name: "gamz",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Web application marcketplace that allow users to post and search different products.",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "express",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "redux",
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
+    image: gamez,
     source_code_link: "https://github.com/",
   },
   {
-    name: "Trip Guide",
+    name: "live the adventure algeria",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "A touristique platform that allows users to book hikings and events to popular destinations.",
     tags: [
       {
-        name: "nextjs",
+        name: "django",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "heroku",
         color: "green-text-gradient",
       },
       {
@@ -241,7 +241,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
+    image: lv,
     source_code_link: "https://github.com/",
   },
 ];

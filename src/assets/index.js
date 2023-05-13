@@ -32,7 +32,9 @@ import tesla from "./company/tesla.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
-
+import gamez from "./gamez.png";
+import techdz from "./techdz.png";
+import lv from "./lv.png";
 export {
   logo,
   backend,
@@ -65,4 +67,7 @@ export {
   gdg,
   free,
   devteam,
+  techdz,
+  gamez,
+  lv,
 };
