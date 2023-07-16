@@ -127,7 +127,7 @@ const experiences = [
     iconBg: "#383E56",
     date: "2022 - Today",
     points: [
-      "I am fortunate to have had the opportunity to join the Google Developers Student Club, where I have gained valuable experience working on a variety of projects with other talented individuals. Through my involvement with the club, I have sharpened my skills in web development, gained experience working with modern technologies, and learned how to work effectively as part of a team. In addition, I have recently been honored to serve as a mentor in a web development bootcamp, helping others to learn and develop their skills."
+      "I am fortunate to have had the opportunity to join the Google Developers Student Club, where I have gained valuable experience working on a variety of projects with other talented individuals. Through my involvement with the club, I have sharpened my skills in web development, gained experience working with modern technologies, and learned how to work effectively as part of a team. In addition, I have recently been honored to serve as a mentor in a web development bootcamp, helping others to learn and develop their skills.",
     ],
   },
   {
@@ -145,38 +145,11 @@ const experiences = [
     company_name: "SARL DEVTEAM",
     icon: devteam,
     iconBg: "#E6DEDD",
-    date: "mars 2023 - Present",
+    date: "fev 2023 - Present",
     points: [
       "ERP Conception And creation",
-      "MERN stack devlopment and team work"
+      "MERN stack devlopment and team work",
     ],
-  },
-];
-
-const testimonials = [
-  {
-    testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
-  },
-  {
-    testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
-  },
-  {
-    testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
   },
 ];
 
@@ -200,7 +173,7 @@ const projects = [
       },
     ],
     image: techdz,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://gamz-dz.com",
   },
   {
     name: "gamz",
