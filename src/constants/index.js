@@ -116,7 +116,7 @@ const experiences = [
     date: "mars 2022 - nov 2022",
     points: [
       "I've earned the full stack (MERN) gomycode certification in these bootcampe I started my web dev journey and deployed my first web application.",
-      "main front-end skills gained : html,css,js,react,bootstrap,gsap,redux",
+      "main front-end skills gained : html,css,js,react,bootstrap,   gsap,redux",
       "main back-end skills gained : nodeJS , express, sql and Nosql , REST api, mongoDB",
     ],
   },
