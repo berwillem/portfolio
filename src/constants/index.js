@@ -220,7 +220,7 @@ const projects = [
       },
     ],
     image: gamez,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://gamz-dz.com",
   },
   {
     name: "live the adventure algeria",
@@ -241,7 +241,7 @@ const projects = [
       },
     ],
     image: lv,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://gamz-dz.com",
   },
 ];
 
